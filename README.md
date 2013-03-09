@@ -1,6 +1,6 @@
-[jQuery](http://jquery.com/) - New Wave JavaScript
+[elegance](http://jquery.com/) - New Wave JavaScript
 ==================================================
-sdfsdf
+
 Contribution Guides
 --------------------------------------
 
