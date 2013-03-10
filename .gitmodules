@@ -4,3 +4,6 @@
 [submodule "libs/requirejs/plugins/i18n"]
 	path = libs/requirejs/plugins/i18n
 	url = git://github.com/requirejs/i18n.git
+[submodule "libs/requirejs/plugins/text"]
+	path = libs/requirejs/plugins/text
+	url = git://github.com/requirejs/text.git
