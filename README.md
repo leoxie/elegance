@@ -1,6 +1,8 @@
 [elegance](https://github.com/leoxie/elegance/wiki) - Lightweight Widget Framework
 ==================================================
 
+[![Build Status](https://secure.travis-ci.org/seajs/seajs.png?branch=master)](https://travis-ci.org/seajs/seajs)
+
 Contribution Guides
 --------------------------------------
 
