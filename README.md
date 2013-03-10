@@ -1,4 +1,4 @@
-[elegance](http://jquery.com/) - New Wave JavaScript
+[elegance](https://github.com/leoxie/elegance/wiki) - Lightweight Widget Framework
 ==================================================
 
 Contribution Guides
