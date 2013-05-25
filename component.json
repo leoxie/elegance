@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "dependencies": {
     "jquery": "~1.9.1",
+    "jquery-ui":"*",
     "requirejs": "~2.1.5",
     "requirejs-text" : "~2.0.5",
     "requirejs-css" : "git@github.com:leoxie/requirejs-css.git#~0.0.1",
     "requirejs-i18n" : "*",
     "requirejs-plugins": "*",
+    "qunit":"*",
     "moment": "*"
   },
   "ignore": [

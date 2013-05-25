@@ -1,7 +1,5 @@
 define(function() {
 
-    "use strict";
-
     /*!
      * artTemplate - Template Engine
      * https://github.com/aui/artTemplate
@@ -28,6 +26,9 @@ define(function() {
 
 
     (function(exports, global) {
+
+        "use strict";
+
         //exports.version = '1.4.0';
         exports.openTag = '<%';
         exports.closeTag = '%>';
@@ -219,6 +220,8 @@ define(function() {
 
             code = variables + replaces[0] + code + 'this.template=' + replaces[3];
 
+            console.info(code);
+
             try {
                 var render = new Function('$data', code);
                 var proto = render.prototype = _create(_helpers);
@@ -307,7 +310,6 @@ define(function() {
                     }
 
                 });
-
             };
 
 
